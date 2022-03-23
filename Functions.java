@@ -10,7 +10,7 @@ class Functions {
 		String k=obj1.method1(10,20.56);
 	}
 	void method1(){
-		System.out.println("Default Method 1");
+		System.out.println("Default Method -1");
 		return;}
 	void method1(int a){
 		System.out.println("Int Arg Method 1");
